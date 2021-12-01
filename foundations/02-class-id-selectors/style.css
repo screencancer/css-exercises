@@ -1,18 +1,16 @@
-.first,.second,.third{
-    color: black;
+.odd{
     background-color: rgb(255, 179, 179);
-    font-size: 20px;
+    font-family: Verdana, sans-serif;
 }
-.second {
-    font-size: 30px;
+.oddly-cool {
+    font-size: 24px;
 }
 #number2 {
     color: blue;
-    font-weight: 500;
-    font-size: 39px;
+    font-size: 36px;
 }
 #number4 {
-    font-size: 25px;
+    font-size: 24px;
     font-weight: bold;
     background-color: #8dff85;
 }
